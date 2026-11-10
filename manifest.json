@@ -1,10 +1,10 @@
 {
- "name": "Grade 12 Planner",
- "short_name": "Planner",
+ "name": "Study Hub",
+ "short_name": "Study Hub",
  "start_url": "./index.html",
  "scope": "./",
  "display": "standalone",
- "background_color": "#0a3a8a",
+ "background_color": "#0a0e27",
  "theme_color": "#07162a",
  "lang": "ckb",
  "dir": "rtl",
